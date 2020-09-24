@@ -1,5 +1,5 @@
-.gitcrypt
+.git-crypt
 .env
 venv
-.idea
+.idea/
 *.pyc
