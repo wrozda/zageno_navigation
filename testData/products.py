@@ -1,0 +1,1 @@
+test_product = 'MOUSE SPLEEN SKU: MS-T029'
